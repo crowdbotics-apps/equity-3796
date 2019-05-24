@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT equity_3796.wsgi:application
